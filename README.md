@@ -1,3 +1,4 @@
+![logo](Bind.png)
 # use termux 
 ```
 pkg update -y
